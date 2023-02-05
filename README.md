@@ -1,2 +1,1 @@
-# cypress_agent
-cypress agent for athena
+# tiny_cypress

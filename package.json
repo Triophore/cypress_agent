@@ -1,0 +1,25 @@
+{
+  "name": "tiny_cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tiny_cypress": "tiny_cypress.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cypress": "^10.0.3",
+    "delete": "^1.1.0",
+    "prompt-confirm": "^2.0.4",
+    "prompts": "^2.4.2",
+    "socket.io-client": "^4.5.1",
+    "systeminformation": "^5.11.20",
+    "yargs": "^17.5.1"
+  }
+}
